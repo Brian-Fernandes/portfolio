@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: system-ui;
+  background: #0b0b0f;
+  color: #eaeaea;
+}
+
+.hero {
+  display: flex;
+  min-height: 100vh;
+  padding: 4rem;
+  gap: 3rem;
+}
+
+.left img {
+  width: 180px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(14px);
+  padding: 2rem;
+  border-radius: 16px;
+  margin-bottom: 2rem;
+  animation: fadeUp 0.8s ease;
+}
+
+a {
+  color: #9ddcff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

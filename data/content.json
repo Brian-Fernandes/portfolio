@@ -1,0 +1,51 @@
+{
+  "profile": {
+    "name": "Brian Fernandes",
+    "qualification": "Undergraduate Student",
+    "photo": "assets/profile.jpg",
+    "quickFacts": [
+      "Python-focused developer",
+      "Basic DSA knowledge",
+      "Exploring SQL & Systems",
+      "Interested in AI agents"
+    ]
+  },
+
+  "aboutMe": {
+    "text": "I am a student developer with a strong inclination towards system-level thinking and problem solving. I enjoy building structured solutions rather than surface-level implementations. Currently, I am focused on Python-based development and learning how real-world systems are designed."
+  },
+
+  "projects": [
+    {
+      "title": "AI Travel Agent",
+      "description": "A ChatGPT-powered travel planning agent capable of generating itineraries, optimizing routes, and handling user constraints.",
+      "github": "https://github.com/your-username/travel-agent",
+      "highlights": [
+        "Prompt-engineered agent flow",
+        "Modular planning logic",
+        "Scalable design"
+      ]
+    }
+  ],
+
+  "skills": {
+    "programming": [
+      "Python (comfortable)",
+      "Java (basic)",
+      "SQL (learning)"
+    ],
+    "concepts": [
+      "Arrays, Stacks, Queues",
+      "Trees (basic)",
+      "System design fundamentals"
+    ]
+  },
+
+  "contact": {
+    "email": "your-email@example.com",
+    "linkedin": "https://linkedin.com/in/your-profile",
+    "github": "https://github.com/your-username",
+    "phone": "+91-XXXXXXXXXX",
+    "resume": "assets/Brian_Fernandes_Resume.pdf"
+  }
+}
