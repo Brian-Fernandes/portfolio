@@ -19,7 +19,7 @@
     {
       "title": "AI Travel Agent",
       "description": "A ChatGPT-powered travel planning agent capable of generating itineraries, optimizing routes, and handling user constraints.",
-      "github": "https://github.com/Brian-Fernandes/travel-agent",
+      "github": "https://github.com/Brian-Fernandes/travel_agent",
       "highlights": [
         "Prompt-engineered agent flow",
         "Modular planning logic",
@@ -49,5 +49,6 @@
     "resume": "assets/Brian_Fernandes_Resume.pdf"
   }
 }
+
 
 
